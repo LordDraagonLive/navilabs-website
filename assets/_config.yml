@@ -1,2 +1,0 @@
-exclude:
-  - assets/lib/owl.carousel/docs_src/templates/pages/**/*.hbs
